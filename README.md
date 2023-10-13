@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik2k21&show_icons=true&locale=en" alt="souvik2k21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2k21&" alt="souvik2k21" /></p>
+
+[![An image of @souvik2k21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik2k21)](https://holopin.io/@souvik2k21)
