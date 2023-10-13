@@ -1,4 +1,4 @@
-![logo](https://github.com/souvik2k21/souvik2k21/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Souvik Karmakar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
