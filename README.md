@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik2k21&show_icons=true&locale=en" alt="souvik2k21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2k21&" alt="souvik2k21" /></p>
-<h3 align="left">Hacktooberfest 2023</h3>
+<h3 align="left">Hacktoberfest 2023</h3>
 
 [![An image of @souvik2k21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik2k21)](https://holopin.io/@souvik2k21)
 
