@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rajkarmakar892@gmail.com**
 
-- ⚡ Fun fact **When I'm not typing code, you can find me debating which is superior: spaces vs. tabs or whether to name variables in camelCase, snake_case, or kebab-case. I also have a secret talent for debugging issues that only seem to occur on Fridays at 5 PM! 😄 #CodingEnthusiast"**
+- ⚡ Fun fact- **When I'm not typing code, you can find me debating which is superior: spaces vs. tabs or whether to name variables in camelCase, snake_case, or kebab-case. I also have a secret talent for debugging issues that only seem to occur on Fridays at 5 PM! 😄 #CodingEnthusiast"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
