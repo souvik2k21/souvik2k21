@@ -10,7 +10,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 💻 Currently Learning Machine Learning and Android App development
+- 💻 Currently learning Machine Learning and Android App Development
 - 🎨 Love creating beautiful and user-friendly web applications
 - 🎮 Enjoy playing video games and coding in my free time
 - ⚽ Love Playing football (fan of CR7)
