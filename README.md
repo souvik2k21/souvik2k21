@@ -10,6 +10,13 @@
 
 - ⚡ Fun fact- **When I'm not typing code, you can find me debating which is superior: spaces vs. tabs or whether to name variables in camelCase, snake_case, or kebab-case. I also have a secret talent for debugging issues that only seem to occur on Fridays at 5 PM! 😄**
 
+<h3 align="left">About me:</h3>
+
+- 💻 Currently diving deep into Machine Learning and Mobile App development
+- 🎨 Love creating beautiful and user-friendly web applications
+- 🎮 Enjoy playing video games and coding in my free time
+- ⚽ Love Playing football (fan of CR7)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@svk2k17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@svk2k17" height="30" width="40" /></a>
