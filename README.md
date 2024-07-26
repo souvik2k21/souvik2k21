@@ -13,7 +13,7 @@
 - 💻 Currently learning Machine Learning and Android App Development
 - 🎨 Love creating beautiful and user-friendly web applications
 - 🎮 Enjoy playing video games and coding in my free time
-- ⚽ Love Playing football (fan of CR7)
+- ⚽ Love playing football (fan of CR7)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
