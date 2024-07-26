@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik2k21&label=Profile%20views&color=0e75b6&style=flat" alt="souvik2k21" /> </p>
 
-- 📫 How to reach me **rajkarmakar892@gmail.com**
+- 📫 Reach me at **rajkarmakar892@gmail.com**
 
 - ⚡ Fun fact- **When I'm not typing code, you can find me debating which is superior: spaces vs. tabs or whether to name variables in camelCase, snake_case, or kebab-case. I also have a secret talent for debugging issues that only seem to occur on Fridays at 5 PM! 😄 #CodingEnthusiast"**
 
