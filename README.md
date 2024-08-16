@@ -10,7 +10,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 💻 Currently learning Machine Learning and Android App Development
+- 💻 Currently learning AIML and MERN Stack
 - 🎨 Love creating beautiful and user-friendly web applications
 - 🎮 Enjoy playing video games and coding in my free time
 - ⚽ Love playing football (fan of CR7)
